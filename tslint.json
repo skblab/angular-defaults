@@ -1,7 +1,7 @@
 {
     "rulesDirectory": [
-        "node_modules/codelyzer",
-        "node_modules/rxjs-tslint"
+        "../../codelyzer",
+        "../../rxjs-tslint"
     ],
     "extends": [
         "rxjs-tslint-rules"
