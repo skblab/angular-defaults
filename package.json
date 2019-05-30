@@ -1,6 +1,6 @@
 {
   "name": "@skblab/angular-defaults",
-  "version": "7.215.2",
+  "version": "7.215.3",
   "description": "SKBLAB Angular defaults",
   "homepage": "https://skblab.ru",
   "repository": "github:skblab/angular-defaults",
@@ -51,6 +51,7 @@
     "@angular/cdk": "7.3.7",
     "@angular/material": "7.3.7",
 
+    "@types/lodash": "4.14.132",
     "normalize.css": "8.0.1",
 
     "rxjs-tslint": "0.1.7",

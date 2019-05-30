@@ -44,6 +44,7 @@
 
 ### Production Other
 * `normalize.css`
+* `@types/lodash`
 
 ### Development Other
 * `rxjs-tslint`
