@@ -36,6 +36,6 @@
         "comment-format": [true, "check-space"],
         "completed-docs": false,
         "jsdoc-format": false,
-        "no-redundant-jsdoc": false,
+        "no-redundant-jsdoc": false
     }
 }
