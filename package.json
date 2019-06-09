@@ -1,6 +1,6 @@
 {
   "name": "@skblab/angular-defaults",
-  "version": "7.215.7",
+  "version": "7.215.8",
   "description": "SKBLAB Angular defaults",
   "homepage": "https://skblab.ru",
   "repository": "github:skblab/angular-defaults",
@@ -23,7 +23,6 @@
     "@angular/platform-browser": "7.2.15",
     "@angular/platform-browser-dynamic": "7.2.15",
     "@angular/router": "7.2.15",
-    "core-js": "2.6.9",
     "rxjs": "6.3.3",
     "tslib": "1.9.3",
     "zone.js": "0.8.29",
